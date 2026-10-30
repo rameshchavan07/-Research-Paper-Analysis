@@ -156,3 +156,10 @@ Alternatively, set it before booting the backend:
 
 ### Option C: Instant Heuristic Fallback (No Setup Required)
 If you have no API keys or local Ollama models installed, **do not worry!** ResearchMate's unique fallback synthesizer will automatically run, retrieving the exact chunks from ChromaDB and extracting matching facts in real-time, allowing you to show off a fully functional document RAG demo out-of-the-box.
+
+---
+
+## 👥 Contributors
+
+- **Chavan Ramesh** ([@rameshchavan07](https://github.com/rameshchavan07)) - *Lead Developer & Maintainer*
+
